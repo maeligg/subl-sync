@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"TernJS",
+		"Theme - Spacegray"
+	]
+}
